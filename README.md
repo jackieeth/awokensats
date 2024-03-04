@@ -23,3 +23,5 @@ Inscriptions are immutable digital artifacts. Inscriptions can also be dynamic m
 To match the valid sat number (ranging from `5000000000` to `1050002499999999`) using regular expression in the inscription content
 
 `(500000000\d|50000000[1-9]\d|5000000[1-9]\d{2}|500000[1-9]\d{3}|50000[1-9]\d{4}|5000[1-9]\d{5}|500[1-9]\d{6}|50[1-9]\d{7}|5[1-9]\d{8}|[6-9]\d{9}|[1-9]\d{10,14}|10[0-4]\d{13}|105000[01]\d{9}|1050002[0-4]\d{8})`
+
+[Feedback?](https://twitter.com/JackieLeeETH)
