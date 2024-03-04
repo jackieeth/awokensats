@@ -5,7 +5,7 @@ Sats were awoken when sat numbers were inscribed in the inscription content. The
 
 - Demo 1: Sat number [45015236932](https://ordiscan.com/inscription/62533038) inscribed in the content to retrieve owner address via [Ord](https://docs.ordinals.com/guides/explorer.html)
 
-- Demo 2: Sat number [156146060642193](https://ordiscan.com/inscription/62682641) inscribed in the content to retrieve owner address and look up KARMA (TAP token) balance via TRAC's public endpoint
+- Demo 2: Sat number [156146060642193](https://ordiscan.com/inscription/62682641) inscribed in the content to retrieve owner address and look up KARMA (TAP token) balance via TRAC's [public endpoints](https://github.com/BennyTheDev/trac-tap-public-endpoint)
 
 - Notes: Ord still has cors restrictions so it may not work
 
