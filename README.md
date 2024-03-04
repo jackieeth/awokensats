@@ -7,7 +7,7 @@ Sats were awoken when sat numbers were inscribed in the inscription content. The
 
 - Demo 2: Sat number [156146060642193](https://ordiscan.com/inscription/62682641) inscribed in the content to retrieve owner address and look up KARMA (TAP token) balance via TRAC's [public endpoints](https://github.com/BennyTheDev/trac-tap-public-endpoint)
 
-- Notes: Ord still has cors restrictions so it may not work
+- Notes: `ordinals.com` and `ord.io` still have cors restrictions so it may not work.
 
 ## Why?
 Inscriptions are immutable digital artifacts. Inscriptions can also be dynamic machinery operating based on the Bitcoin blockchain's immutable data.
